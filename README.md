@@ -6,6 +6,8 @@ Además, también sería interesante ya de paso aumentar la información sobre e
 
 Este proyecto estará coordinado desde la [Oficina de Software Libre](http://osl.ugr.es/) por [Germán Martínez](https://twitter.com/germaaan_), quien está a cargo del proyecto, junto con [Chá Lucena](https://twitter.com/chalucena). El resultado final será un mapa, que se debería actualizar automáticamente según se añadan nuevos elementos a la Wikipedia.
 
+![patrimonio](images/patrimonio.png)
+
 # En qué vamos a trabajar
 
 Nuestra idea es que la gente interesada en este proyecto trabaje en las siguientes tareas:
@@ -16,7 +18,7 @@ Nuestra idea es que la gente interesada en este proyecto trabaje en las siguient
 - Visualización de datos de Patrimonio en un mapa a partir de la extracción automática de datos de la Wikipedia.
 - Creación automática de rutas sobre Patrimonio de la UGR de acuerdo con algún perfil.
 
-# Qué necesito saber hacer
+# Cómo puedo colaborar
 
 Toda persona es bienvenida a aportar en cualquiera de las tareas, y no es necesario tener un pérfil o conocimientos exclusivamente informáticos, pueden ser útiles los siguientes conocimientos:
 
@@ -25,3 +27,7 @@ Toda persona es bienvenida a aportar en cualquiera de las tareas, y no es necesa
 - Conocimientos de visualización de datos.
 - Análisis de situación y contextualización de la misma.
 - Fotografiar y procesar fotos para subirlas, con contenido libre, a la Wikipedia.
+
+# Quiero participar
+
+Tanto si vas a participar presencialmente como de forma remota (en función de como mejor te venga), agradeceríamos que te inscribieras en la [lista de participantes](PARTICIPANTES.md). También, si no lo has hecho todavía, te pediríamos que te apuntaras en el Meetup de esta actividad. Aunque el registro no es obligatorio, se agradece por cuestiones organizativas.
