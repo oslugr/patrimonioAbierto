@@ -30,4 +30,4 @@ Toda persona es bienvenida a aportar en cualquiera de las tareas, y no es necesa
 
 # Quiero participar
 
-Tanto si vas a participar presencialmente como de forma remota (en función de como mejor te venga), agradeceríamos que te inscribieras en la [lista de participantes](PARTICIPANTES.md). También, si no lo has hecho todavía, te pediríamos que te apuntaras en el Meetup de esta actividad. Aunque el registro no es obligatorio, se agradece por cuestiones organizativas.
+Tanto si vas a participar presencialmente como de forma remota (en función de como mejor te venga), agradeceríamos que te inscribieras en la [lista de participantes](PARTICIPANTES.md). También, si no lo has hecho todavía, te pediríamos que te apuntaras en el [Meetup de esta actividad](https://www.meetup.com/es-ES/Granada-Geek/events/236840299/). Aunque el registro no es obligatorio, se agradece por cuestiones organizativas.
